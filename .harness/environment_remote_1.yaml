@@ -1,0 +1,7 @@
+environment:
+  name: environment_remote_1
+  identifier: environment_remote_1
+  accountId: rXUXvbFqRr2XwcjBu3Oq-Q
+  orgIdentifier: default
+  projectIdentifier: Services_remote_test
+  type: PreProduction
